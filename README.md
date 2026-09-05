@@ -14,10 +14,6 @@ like Gurobi or CPLEX was impractical within the competition's time limit, so we
 designed a batch data processing algorithm that trades strict optimality for a
 solution obtainable in a reasonable timeframe.
 
-**Result:** out of 200+ competing teams, this solution placed **3rd in its
-category**, presented at the "Changemakers of Tomorrow" conference in Bangalore,
-India.
-
 ## Problem
 
 Given historical biomass yield (2010 to 2017) at 2,417 harvesting sites and the
